@@ -2,13 +2,13 @@
 
 The web page for challenge 1 is given as the next images.
 
-#For desktop users
+# For desktop users
 
 ![A webpage well design for desktop users with a nav bar, a page name and title. semantic lay ](./assets/images/image-1.png)
 
 ![A webpage well design for desktop users with a nav bar, a page name and title. semantic lay](./assets/images/image-2.png)
 
-#For mobile users
+# For mobile users
 
 
 ![A webpage well design for mobile users with a nav bar, a page name and title. semantic lay.](./assets/images/image-3.png)
